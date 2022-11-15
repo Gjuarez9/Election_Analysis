@@ -15,7 +15,7 @@ With the ability to perform this analysis using python we are able to discover t
   * The percentage of votes each candidate won.  **DeGette, 73.8% - Stockham, 23% - Doanne, 3.1%**
   * The winner of the election based on popular vote.  **Diana DeGette**
   
-The image bellow is a saved text file of our results.
+The image here is a saved text file of our results.
 ![Election_results](https://user-images.githubusercontent.com/107452167/201805520-85cefd9e-24ee-4f1f-abab-8c93a73f89ea.png)
 
 ### SUMMARY
